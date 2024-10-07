@@ -1,0 +1,12 @@
+{
+    "incomes": [
+        {"description": "Salary", "amount": 5000, "category": "Job"},
+        {"description": "Freelance", "amount": 1500, "category": "Side Hustle"}
+    ],
+    "expenses": [
+        {"description": "Rent", "amount": 1200, "category": "Housing"},
+        {"description": "Groceries", "amount": 300, "category": "Food"},
+        {"description": "Internet", "amount": 100, "category": "Utilities"},
+        {"description": "Transportation", "amount": 200, "category": "Transport"}
+    ]
+}
